@@ -1,0 +1,25 @@
+button {
+  font-size: 15px;
+  background-color: rgba(43, 111, 131, 0.993);
+  border: transparent;
+  cursor: pointer;
+  color: white;
+  margin-top: 10px;
+  margin-right: 5px;
+  width: fit-content;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+table {
+  margin: auto;
+  margin-top: 20px;
+}
+
+th {
+  padding: 10px;
+}
+
+td {
+  padding: 10px;
+}

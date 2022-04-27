@@ -1,0 +1,74 @@
+{
+  "Lists": [
+    {
+      "Name": "VTamil Selvan",
+      "City": "Tirupur",
+      "Address": "4/100",
+      "Capacity": "50",
+      "CostPerDay": "150",
+      "Verified": "false",
+      "Rating": "5",
+      "id": 1
+    },
+    {
+      "Name": "Saro",
+      "City": "Tirupur",
+      "Address": "4/100",
+      "Capacity": "150",
+      "CostPerDay": "100",
+      "Verified": "true",
+      "Rating": "3",
+      "id": 2
+    },
+    {
+      "Name": "Bals",
+      "City": "Tirupur",
+      "Address": "4/100",
+      "Capacity": "250",
+      "CostPerDay": "300",
+      "Verified": "true",
+      "Rating": "3.5",
+      "id": 3
+    },
+    {
+      "Name": "Vp",
+      "City": "Tirupur",
+      "Address": "4/100",
+      "Capacity": "500",
+      "CostPerDay": "250",
+      "Verified": "false",
+      "Rating": "5",
+      "id": 4
+    },
+    {
+      "Name": "Prakash",
+      "City": "Tirupur",
+      "Address": "4/100",
+      "Capacity": "50",
+      "CostPerDay": "1500",
+      "Verified": "true",
+      "Rating": "4.8",
+      "id": 5
+    },
+    {
+      "Name": "Priya",
+      "City": "Bangalore",
+      "Address": "Bangalore",
+      "Capacity": "25",
+      "CostPerDay": "400",
+      "Verified": "",
+      "Rating": "3.8",
+      "id": 6
+    },
+    {
+      "Name": "Sarvan",
+      "City": "Salem",
+      "Address": "Mettur",
+      "Capacity": "30",
+      "CostPerDay": "450",
+      "Verified": "",
+      "Rating": "4",
+      "id": 7
+    }
+  ]
+}
